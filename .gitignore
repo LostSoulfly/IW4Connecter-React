@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.pdb
+bin/Release/IW4Connecter.vshost.exe
+bin/Release/IW4Connecter.xml
